@@ -1,12 +1,3 @@
-% ---------------------------------------------------------------------
-% Quantlet:		NCspDSFM
-% ---------------------------------------------------------------------
-% Description:	Function for DSFM_YC
-% ---------------------------------------------------------------------
-% Author:		Piotr Majer (based on codes of Szymon Borak), 20120331
-% ---------------------------------------------------------------------
-
-
 function sDSFMobj = NCspDSFM(IV,L,knotsmoney,kmoney,knotsmatur,kmatur,startingzeta,epsilon,maxiter,dim1,dim2)
 
 %IV should contain 4 column moneyness, maturity, log iv, date
