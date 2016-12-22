@@ -1,0 +1,19 @@
+
+Name of Quantlet:	DSFM_YC (MatLab R2007b)
+
+Published in:		'Yield Curve Modeling and Forecasting using Semiparametric Factor Dynamics'
+
+Description:        'DSFM_YC estimates DSFM model for term structure of interests rates with B-spline basis functions. The program uses functions and inputs listed below.
+
+Keywords:           DSFM, spline, yield
+
+See also:           DSFM_FPCA_ICS
+
+Author:             Piotr Majer
+
+Submitted:          Sat, March 15 2014 by Lukas Borke
+                    updatae
+
+Usage of Functions: augknt.m, bkbrk.m, brk2knt.m, chckxywp.m, NCspDSFM.m, slvblk.m, smartMatrix4sDSFM.m, sorted.m, spap2.m, spcol.m, spmak.m, xplreshape.m, xplvec.m
+
+Datafiles:          IT.txt
