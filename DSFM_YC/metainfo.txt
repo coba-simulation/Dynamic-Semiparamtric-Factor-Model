@@ -13,6 +13,6 @@ Author:			Piotr Majer
 
 Submitted:		Sat, March 15 2014 by Lukas Borke; update for Quantnet 2.0: Thu, Dec 22 2016 by Johannes Stoiber 
 
-Usage of Functions:	augknt.m, bkbrk.m, brk2knt.m, chckxywp.m, NCspDSFM.m, slvblk.m, smartMatrix4sDSFM.m, sorted.m, spap2.m, spcol.m, spmak.m, xplreshape.m, xplvec.m, Yhat
+Usage of Functions:	augknt.m, bkbrk.m, brk2knt.m, chckxywp.m, NCspDSFM.m, slvblk.m, smartMatrix4sDSFM.m, sorted.m, spap2.m, spcol.m, spmak.m, xplreshape.m, xplvec.m, Yhat.m
 
 Datafiles:		IT.txt
