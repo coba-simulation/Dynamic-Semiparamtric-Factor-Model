@@ -3,15 +3,15 @@ Name of Quantlet:	NCspDSFM (MatLab R2007b)
 
 Published in:		'Yield Curve Modeling and Forecasting using Semiparametric Factor Dynamics'
 
-Description:            'Functions for the Quantlet DSFM_YC'
+Description:		Function for the Quantlet DSFM_YC. The function uses functions listed below.
 
-Keywords:               DSFM, spline, yield
+Keywords:		DSFM, spline, yield
 
-See also:                DSFM_YC, DSFM_FPCA_ICS
+See also:		DSFM_YC, DSFM_FPCA_ICS, DSFM_fmri
 
-Authors:                 Piotr Majer, based on codes of Szymon Borak
+Author:			Piotr Majer. Functions below by Piotr Majer, Szymon Borak and The MathWorks, Inc.
                          
-Submitted:               Sat, March 15 2014 by Lukas Borke
-                         update for Quantnet 2.0: Thu, Dec 22 2016 by Johannes Stoiber
+Submitted:		Sat, March 15 2014 by Lukas Borke; update for Quantnet 2.0: Thu, Dec 22 2016 by Johannes Stoiber
 
-Functions:               augknt.m, bkbrk.m, brk2knt.m, chckxywp.m, NCspDSFM.m, slvblk.m, smartMatrix4sDSFM.m, sorted.m, spap2.m, spcol.m, spmak.m, xplreshape.m, xplvec.m                  
+Functions:		augknt.m, bkbrk.m, brk2knt.m, chckxywp.m, slvblk.m, smartMatrix4sDSFM.m, sorted.m, spap2.m, spcol.m, spmak.m, xplreshape.m, xplvec.m, Yhat.m
+

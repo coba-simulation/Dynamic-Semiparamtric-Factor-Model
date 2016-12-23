@@ -1,24 +1,3 @@
-% ---------------------------------------------------------------------
-% Publication:	Yiled Curve Dynamics with DSFM
-% ---------------------------------------------------------------------
-% Quantlet:		DSFM_YC
-% ---------------------------------------------------------------------
-% Description:	DSFM_YC estimates DSFM model for term structure of 
-%               interests rates with B-spline basis functions
-%               the program uses functions and inputs listed below
-% ---------------------------------------------------------------------
-% Functions:	smartMatrix4sDSFM.m
-%               NCspDSFM.m
-%               xplreshape.m
-%               xplvec.m
-%               Yhat.m
-% ---------------------------------------------------------------------
-% Inputs:		IT.txt %Italian zero curve data 199901-201203 
-% ---------------------------------------------------------------------
-% Author:		Piotr Majer, 20120418
-% --------------------------------------------------------------------- 
-
-
 clear all
   Y=load('IT.txt');
  [m J]=size(Y);
