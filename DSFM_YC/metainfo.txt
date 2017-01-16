@@ -5,8 +5,7 @@ Published in:		'Yield Curve Modeling and Forecasting using Semiparametric Factor
 
 Description:		'DSFM_YC estimates DSFM model for term structure of interests rates with B-spline basis functions. The program uses functions and inputs listed below. Functions can be accessed through folder DSFM_YC-helperfunctions.
 
-Keywords:		DSFM, spline, yield
-
+Keywords:		DSFM, spline, basis, yield, curve, term structure, plot,interest-rate, dynamic, semiparametric, semiparametric model, factor-model
 See also:		DSFM_FPCA_ICS, DSFM_fmri
 
 Author:			Piotr Majer

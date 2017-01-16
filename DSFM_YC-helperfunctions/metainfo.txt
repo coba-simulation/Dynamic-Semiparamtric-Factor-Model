@@ -5,7 +5,7 @@ Published in:		'Yield Curve Modeling and Forecasting using Semiparametric Factor
 
 Description:		Function for the Quantlet DSFM_YC. The function uses functions listed below. All functions are provided in folder. 
 
-Keywords:		DSFM, spline, yield
+Keywords:		DSFM, spline, basis, yield, curve, term structure, plot,interest-rate, dynamic, semiparametric, semiparametric model, factor-model
 
 See also:		DSFM_YC, DSFM_FPCA_ICS, DSFM_fmri
 
